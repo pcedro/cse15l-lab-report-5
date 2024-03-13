@@ -22,7 +22,8 @@ The program failed to compile, see compile error above
 
 **Student_User**
 
-*This is the output I received after recursively removing the file stored in the student folder. It is now working, thank you!*
+*This is the output I received after recursively removing the file stored in the student folder with `rm -rf student` at the beginning of the script. It is now working, thank you!*
+
 ![Image](fixedbug.png)
 
 ---
