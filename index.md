@@ -4,7 +4,9 @@
 ## Part 1: Debugging Scenario
 **Student_User**
 *I wrote a script to test and calculate the student submission's score, however, whenever I try to use the bash script with a file, I get the same symptom in the terminal output each time regardless of the file. As the file has been processed, I think the bug might be somewhere in my code for calculating the score.* 
+
 ![Image](symptom.png)
+
 **TA_User**
 *Have you checked___? I'm unable to fully assist as I would need more context of the code.*
 
